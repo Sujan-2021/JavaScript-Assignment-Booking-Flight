@@ -143,6 +143,7 @@ nav ul li a:hover, a.active{
 }
 
 #success-message p{
+    padding: 3px 0;
     font-size: 13px;
     text-transform: uppercase;
     font-weight: 400;
